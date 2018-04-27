@@ -1,0 +1,10 @@
+{
+	"APP": {
+		"Change language": "",
+		"Greeting": "Hello from the App!"
+	},
+	"HOME": {
+		"Greeting": "Hello from the Home page!",
+		"Subtitle": ""
+	}
+}
